@@ -24,6 +24,10 @@
 
 ## :electron: My Projects 
 - 🎥 Prototype Camera Gimbal Using Arduino Uno - [https://github.com/aceta-minophen/Makeshift-Gimbal](https://github.com/aceta-minophen/Makeshift-Gimbal)
+
+
 - 🚙 Robot Car controlled using self-developed phone joystick app - [https://github.com/aceta-minophen/Phone-Controlled-4-Wheeler-Robot](https://github.com/aceta-minophen/Phone-Controlled-4-Wheeler-Robot)
+
+- 🧤🚙 Hand gesture controlled robot car - [https://github.com/aceta-minophen/Hand-gesture-controlled-robot](https://github.com/aceta-minophen/Hand-gesture-controlled-robot)
 
 ![Sukritee's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceta-minophen&show_icons=true&theme=radical)

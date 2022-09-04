@@ -20,9 +20,10 @@
 </p>
 
 
-## 🔧 My Projects 
-- 🎥 Prototype Camera Gimbal Using Arduino Uno - [https://github.com/aceta-minophen/Makeshift-Gimbal](https://github.com/aceta-minophen/Makeshift-Gimbal)
+## 🔧 My Projects
+- 🧑‍⚕️ Rudra (AI based interactive robot for elderly care) - [https://github.com/aceta-minophen/Rudra](https://github.com/aceta-minophen/Rudra)
 
+- 🎥 Prototype Camera Gimbal Using Arduino Uno - [https://github.com/aceta-minophen/Makeshift-Gimbal](https://github.com/aceta-minophen/Makeshift-Gimbal)
 
 - 🚙 Robot Car controlled using self-developed phone joystick app - [https://github.com/aceta-minophen/Phone-Controlled-4-Wheeler-Robot](https://github.com/aceta-minophen/Phone-Controlled-4-Wheeler-Robot)
 
